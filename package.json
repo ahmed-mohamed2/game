@@ -1,0 +1,16 @@
+{
+  "name": "socketio-quiz-game",
+  "version": "1.0.0",
+  "description": "A real-time quiz game using Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
